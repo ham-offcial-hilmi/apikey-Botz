@@ -29,7 +29,7 @@ function convertCRC16(str) {
 }
 
 function generateTransactionId() {
-    return `HAMZPEDIA-${crypto.randomBytes(2).toString('hex').toUpperCase()}`
+    return `HAMZOFFCIAL-${crypto.randomBytes(2).toString('hex').toUpperCase()}`
 }
 
 function generateExpirationTime() {
